@@ -37,6 +37,3 @@ Los autos se guardan como diccionarios dentro de la lista `transportes`, por eje
 }
 ```
 
-## Nota
-
-Como los datos se guardan solo en memoria, al cerrar el programa se pierde todo lo registrado. Es un proyecto pensado para practicar funciones y manejo de listas/diccionarios en Python, no para uso real.
