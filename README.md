@@ -11,15 +11,6 @@ Al ejecutarlo aparece un menú con estas opciones:
 3. **Modificar datos de transporte** — busca un auto por placa y te deja actualizar sus datos. Si dejas un campo vacío al modificar, se queda con el valor que tenía antes.
 4. **Salir** — cierra el programa.
 
-## Cómo correrlo
-
-Solo necesitas tener Python instalado (3.x). Desde la terminal, en la carpeta del proyecto:
-
-```bash
-python registro_transportes.py
-```
-
-Y sigue las instrucciones que van apareciendo en pantalla.
 
 ## Cómo está organizado el código
 
