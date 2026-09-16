@@ -1,7 +1,6 @@
 # Registro de Transportes
 
-Programa en Python, sencillo, para llevar un registro de autos por consola. Es un ejercicio de práctica, así que no usa archivos ni base de datos: mientras el programa está corriendo, todo se guarda en memoria (en una lista).
-
+Programa en Python, para llevar un registro de autos por consola.
 ## ¿Qué hace?
 
 Al ejecutarlo aparece un menú con estas opciones:
